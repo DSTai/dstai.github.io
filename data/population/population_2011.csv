@@ -1,6 +1,4 @@
 code,name,area,population,density
-,CA NUOC,330957.6,88145.83,266.34
-,Dong bang song Hong,21068.1,20216.81,959.59
 1,Ha Noi,3328.9,6825.82,2050.47
 26,Vinh Phuc,1236.5,1029.5,832.59
 27,Bac Ninh,822.7,1072.38,1303.49
@@ -12,7 +10,6 @@ code,name,area,population,density
 35,Ha Nam,860.5,795.65,924.63
 36,Nam Dinh,1651.4,1816.81,1100.16
 37,Ninh Binh,1390.3,911.69,655.75
-,Trung du va mien nui phia Bac,95264.4,11311.41,118.74
 2,Ha Giang,7914.9,749.54,94.7
 4,Cao Bang,6707.9,514.02,76.63
 6,Bac Kan,4859.4,298.69,61.47
@@ -27,7 +24,6 @@ code,name,area,population,density
 12,Lai Chau,9068.8,392.88,43.32
 14,Son La,14174.4,1115.21,78.68
 17,Hoa Binh,4608.7,802.18,174.06
-,Bac Trung Bo va Duyen hai mien Trung,95838,19116.29,199.46
 38,Thanh Hoa,11131.9,3427.59,307.91
 40,Nghe An,16493.7,2996.14,181.65
 42,Ha Tinh,5997.2,1236.71,206.21
@@ -42,20 +38,17 @@ code,name,area,population,density
 56,Khanh Hoa,5217.7,1170.24,224.28
 58,Ninh Thuan,3358.3,567.85,169.09
 60,Binh Thuan,7812.9,1180.68,151.12
-,Tay Nguyen,54641,5278.04,96.59
 62,Kon Tum,9689.6,451.61,46.61
 64,Gia Lai,15536.9,1336.1,86
 66,Dak Lak,13125.4,1760.42,134.12
 67,Dak Nong,6515.6,512.67,78.68
 68,Lam Dong,9773.5,1217.24,124.54
-,Dong Nam Bo,23597.9,15005.55,635.89
 70,Binh Phuoc,6871.5,899.57,130.91
 72,Tay Ninh,4039.7,1090.06,269.84
 74,Binh Duong,2694.4,1699.93,630.91
 75,Dong Nai,5907.2,2661.78,450.6
 77,Ba Ria - Vung Tau,1989.5,1040.8,523.14
 79,Ho Chi Minh,2095.6,7613.43,3633.05
-,Dong bang song Cuu Long,40548.2,17217.72,424.62
 80,Long An,4492.4,1504.08,334.81
 82,Tien Giang,2508.3,1682.6,670.81
 83,Ben Tre,2360.6,1262.66,534.89
