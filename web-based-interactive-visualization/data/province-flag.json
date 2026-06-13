@@ -2,379 +2,379 @@
   {
     "code": 17,
     "name": "Hòa Bình",
-    "file_url": "image/provinces/17.png",
+    "file_url": "data/image/provinces/17.png",
     "license": "Public domain"
   },
   {
     "code": 14,
     "name": "Sơn La",
-    "file_url": "image/provinces/14.png",
+    "file_url": "data/image/provinces/14.png",
     "license": "Public domain"
   },
   {
     "code": 11,
     "name": "Điện Biên",
-    "file_url": "image/provinces/11.png",
+    "file_url": "data/image/provinces/11.png",
     "license": "Public domain"
   },
   {
     "code": 12,
     "name": "Lai Châu",
-    "file_url": "image/provinces/12.png",
+    "file_url": "data/image/provinces/12.png",
     "license": "Public domain"
   },
   {
     "code": 10,
     "name": "Lào Cai",
-    "file_url": "image/provinces/10.png",
+    "file_url": "data/image/provinces/10.png",
     "license": "Public domain"
   },
   {
     "code": 15,
     "name": "Yên Bái",
-    "file_url": "image/provinces/15.png",
+    "file_url": "data/image/provinces/15.png",
     "license": "Public domain"
   },
   {
     "code": 25,
     "name": "Phú Thọ",
-    "file_url": "image/provinces/25.png",
+    "file_url": "data/image/provinces/25.png",
     "license": "Public domain"
   },
   {
     "code": 2,
     "name": "Hà Giang",
-    "file_url": "image/provinces/2.png",
+    "file_url": "data/image/provinces/2.png",
     "license": "Public domain"
   },
   {
     "code": 8,
     "name": "Tuyên Quang",
-    "file_url": "image/provinces/8.png",
+    "file_url": "data/image/provinces/8.png",
     "license": "Public domain"
   },
   {
     "code": 4,
     "name": "Cao Bằng",
-    "file_url": "image/provinces/4.png",
+    "file_url": "data/image/provinces/4.png",
     "license": "Public domain"
   },
   {
     "code": 6,
     "name": "Bắc Kạn",
-    "file_url": "image/provinces/6.png",
+    "file_url": "data/image/provinces/6.png",
     "license": "Public domain"
   },
   {
     "code": 19,
     "name": "Thái Nguyên",
-    "file_url": "image/provinces/19.png",
+    "file_url": "data/image/provinces/19.png",
     "license": "Public domain"
   },
   {
     "code": 20,
     "name": "Lạng Sơn",
-    "file_url": "image/provinces/20.png",
+    "file_url": "data/image/provinces/20.png",
     "license": "Public domain"
   },
   {
     "code": 24,
     "name": "Bắc Giang",
-    "file_url": "image/provinces/24.png",
+    "file_url": "data/image/provinces/24.png",
     "license": "Public domain"
   },
   {
     "code": 22,
     "name": "Quảng Ninh",
-    "file_url": "image/provinces/22.png",
+    "file_url": "data/image/provinces/22.png",
     "license": "Public domain"
   },
   {
     "code": 1,
     "name": "Hà Nội",
-    "file_url": "image/provinces/1.png",
+    "file_url": "data/image/provinces/1.png",
     "license": "Public domain"
   },
   {
     "code": 31,
     "name": "Hải Phòng",
-    "file_url": "image/provinces/31.png",
+    "file_url": "data/image/provinces/31.png",
     "license": "Public domain"
   },
   {
     "code": 27,
     "name": "Bắc Ninh",
-    "file_url": "image/provinces/27.png",
+    "file_url": "data/image/provinces/27.png",
     "license": "Public domain"
   },
   {
     "code": 33,
     "name": "Hưng Yên",
-    "file_url": "image/provinces/33.png",
+    "file_url": "data/image/provinces/33.png",
     "license": "Public domain"
   },
   {
     "code": 35,
     "name": "Hà Nam",
-    "file_url": "image/provinces/35.png",
+    "file_url": "data/image/provinces/35.png",
     "license": "Public domain"
   },
   {
     "code": 36,
     "name": "Nam Định",
-    "file_url": "image/provinces/36.png",
+    "file_url": "data/image/provinces/36.png",
     "license": "Public domain"
   },
   {
     "code": 34,
     "name": "Thái Bình",
-    "file_url": "image/provinces/34.png",
+    "file_url": "data/image/provinces/34.png",
     "license": "Public domain"
   },
   {
     "code": 30,
     "name": "Hải Dương",
-    "file_url": "image/provinces/30.png",
+    "file_url": "data/image/provinces/30.png",
     "license": "Public domain"
   },
   {
     "code": 26,
     "name": "Vĩnh Phúc",
-    "file_url": "image/provinces/26.png",
+    "file_url": "data/image/provinces/26.png",
     "license": "Public domain"
   },
   {
     "code": 37,
     "name": "Ninh Bình",
-    "file_url": "image/provinces/37.png",
+    "file_url": "data/image/provinces/37.png",
     "license": "Public domain"
   },
   {
     "code": 38,
     "name": "Thanh Hóa",
-    "file_url": "image/provinces/38.png",
+    "file_url": "data/image/provinces/38.png",
     "license": "Public domain"
   },
   {
     "code": 40,
     "name": "Nghệ An",
-    "file_url": "image/provinces/40.png",
+    "file_url": "data/image/provinces/40.png",
     "license": "Public domain"
   },
   {
     "code": 42,
     "name": "Hà Tĩnh",
-    "file_url": "image/provinces/42.png",
+    "file_url": "data/image/provinces/42.png",
     "license": "Public domain"
   },
   {
     "code": 44,
     "name": "Quảng Bình",
-    "file_url": "image/provinces/44.png",
+    "file_url": "data/image/provinces/44.png",
     "license": "Public domain"
   },
   {
     "code": 45,
     "name": "Quảng Trị",
-    "file_url": "image/provinces/45.png",
+    "file_url": "data/image/provinces/45.png",
     "license": "Public domain"
   },
   {
     "code": 46,
     "name": "Thừa Thiên Huế",
-    "file_url": "image/provinces/46.png",
+    "file_url": "data/image/provinces/46.png",
     "license": "Public domain"
   },
   {
     "code": 48,
     "name": "Đà Nẵng",
-    "file_url": "image/provinces/48.png",
+    "file_url": "data/image/provinces/48.png",
     "license": "Public domain"
   },
   {
     "code": 49,
     "name": "Quảng Nam",
-    "file_url": "image/provinces/49.png",
+    "file_url": "data/image/provinces/49.png",
     "license": "Public domain"
   },
   {
     "code": 51,
     "name": "Quảng Ngãi",
-    "file_url": "image/provinces/51.png",
+    "file_url": "data/image/provinces/51.png",
     "license": "Public domain"
   },
   {
     "code": 52,
     "name": "Bình Định",
-    "file_url": "image/provinces/52.png",
+    "file_url": "data/image/provinces/52.png",
     "license": "Public domain"
   },
   {
     "code": 54,
     "name": "Phú Yên",
-    "file_url": "image/provinces/54.png",
+    "file_url": "data/image/provinces/54.png",
     "license": "Public domain"
   },
   {
     "code": 56,
     "name": "Khánh Hòa",
-    "file_url": "image/provinces/56.png",
+    "file_url": "data/image/provinces/56.png",
     "license": "Public domain"
   },
   {
     "code": 58,
     "name": "Ninh Thuận",
-    "file_url": "image/provinces/58.png",
+    "file_url": "data/image/provinces/58.png",
     "license": "Public domain"
   },
   {
     "code": 60,
     "name": "Bình Thuận",
-    "file_url": "image/provinces/60.png",
+    "file_url": "data/image/provinces/60.png",
     "license": "Public domain"
   },
   {
     "code": 62,
     "name": "Kon Tum",
-    "file_url": "image/provinces/62.png",
+    "file_url": "data/image/provinces/62.png",
     "license": "Public domain"
   },
   {
     "code": 64,
     "name": "Gia Lai",
-    "file_url": "image/provinces/64.png",
+    "file_url": "data/image/provinces/64.png",
     "license": "Public domain"
   },
   {
     "code": 66,
     "name": "Đắk Lắk",
-    "file_url": "image/provinces/66.png",
+    "file_url": "data/image/provinces/66.png",
     "license": "Public domain"
   },
   {
     "code": 67,
     "name": "Đắk Nông",
-    "file_url": "image/provinces/67.png",
+    "file_url": "data/image/provinces/67.png",
     "license": "Public domain"
   },
   {
     "code": 68,
     "name": "Lâm Đồng",
-    "file_url": "image/provinces/68.png",
+    "file_url": "data/image/provinces/68.png",
     "license": "Public domain"
   },
   {
     "code": 79,
     "name": "Thành phố Hồ Chí Minh",
-    "file_url": "image/provinces/79.png",
+    "file_url": "data/image/provinces/79.png",
     "license": "Public domain"
   },
   {
     "code": 77,
     "name": "Bà Rịa – Vũng Tàu",
-    "file_url": "image/provinces/77.png",
+    "file_url": "data/image/provinces/77.png",
     "license": "Public domain"
   },
   {
     "code": 74,
     "name": "Bình Dương",
-    "file_url": "image/provinces/74.png",
+    "file_url": "data/image/provinces/74.png",
     "license": "Public domain"
   },
   {
     "code": 70,
     "name": "Bình Phước",
-    "file_url": "image/provinces/70.png",
+    "file_url": "data/image/provinces/70.png",
     "license": "Public domain"
   },
   {
     "code": 75,
     "name": "Đồng Nai",
-    "file_url": "image/provinces/75.png",
+    "file_url": "data/image/provinces/75.png",
     "license": "Public domain"
   },
   {
     "code": 72,
     "name": "Tây Ninh",
-    "file_url": "image/provinces/72.png",
+    "file_url": "data/image/provinces/72.png",
     "license": "Public domain"
   },
   {
     "code": 92,
     "name": "Cần Thơ",
-    "file_url": "image/provinces/92.png",
+    "file_url": "data/image/provinces/92.png",
     "license": "Public domain"
   },
   {
     "code": 89,
     "name": "An Giang",
-    "file_url": "image/provinces/89.png",
+    "file_url": "data/image/provinces/89.png",
     "license": "Public domain"
   },
   {
     "code": 95,
     "name": "Bạc Liêu",
-    "file_url": "image/provinces/95.png",
+    "file_url": "data/image/provinces/95.png",
     "license": "Public domain"
   },
   {
     "code": 83,
     "name": "Bến Tre",
-    "file_url": "image/provinces/83.png",
+    "file_url": "data/image/provinces/83.png",
     "license": "Public domain"
   },
   {
     "code": 80,
     "name": "Long An",
-    "file_url": "image/provinces/80.png",
+    "file_url": "data/image/provinces/80.png",
     "license": "Public domain"
   },
   {
     "code": 96,
     "name": "Cà Mau",
-    "file_url": "image/provinces/96.png",
+    "file_url": "data/image/provinces/96.png",
     "license": "Public domain"
   },
   {
     "code": 94,
     "name": "Sóc Trăng",
-    "file_url": "image/provinces/94.png",
+    "file_url": "data/image/provinces/94.png",
     "license": "Public domain"
   },
   {
     "code": 93,
     "name": "Hậu Giang",
-    "file_url": "image/provinces/93.png",
+    "file_url": "data/image/provinces/93.png",
     "license": "Public domain"
   },
   {
     "code": 84,
     "name": "Trà Vinh",
-    "file_url": "image/provinces/84.png",
+    "file_url": "data/image/provinces/84.png",
     "license": "Public domain"
   },
   {
     "code": 87,
     "name": "Đồng Tháp",
-    "file_url": "image/provinces/87.png",
+    "file_url": "data/image/provinces/87.png",
     "license": "Public domain"
   },
   {
     "code": 86,
     "name": "Vĩnh Long",
-    "file_url": "image/provinces/86.png",
+    "file_url": "data/image/provinces/86.png",
     "license": "Public domain"
   },
   {
     "code": 91,
     "name": "Kiên Giang",
-    "file_url": "image/provinces/91.png",
+    "file_url": "data/image/provinces/91.png",
     "license": "Public domain"
   },
   {
     "code": 82,
     "name": "Tiền Giang",
-    "file_url": "image/provinces/82.png",
+    "file_url": "data/image/provinces/82.png",
     "license": "Public domain"
   }
 ]
